@@ -213,6 +213,7 @@ function ProjectDetail() {
           <VideoRenderer video={project.video} className={styles.largeVideo} />
         </div>
       )}
+      <p>본 영상은 실제 작품이 아니라, 작품의 작동 방식을 시각적으로 설명한 예시 영상입니다.</p>
 
       {project.VideoOverview && (
         <div className={styles.videoOverview}>
