@@ -14,9 +14,9 @@ const ArtWork = {
   description: "",
   features: [],
   additionalInfo: "",
-  size: "1920x1080 (FHD)",
+  size: "가변 크기, 최대 2K 해상도 (FHD 해상도 기준 제작)",
   image: image1,
-  images: importImages("artwork11", 11),
+  images: importImages("artwork11", 6),
   video: "https://youtu.be/hiv_RKp2_5M",
   VideoOverview: [
 ],
