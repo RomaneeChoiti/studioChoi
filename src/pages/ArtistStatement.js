@@ -21,7 +21,7 @@ function ArtistStatement() {
 
         <article className={styles.content}>
           <section>
-            <h2>주제 | Theme: 관계성 (Relationality)</h2>
+            <h2>Theme: 관계성 (Relationality)</h2>
 
             <p>
               나의 작업은 ‘관계’에 대한 탐구에서 출발한다. 모든 존재는 홀로 서 있는 듯 보이지만,
@@ -31,7 +31,8 @@ function ArtistStatement() {
 
             <p>
               관계는 뿌리처럼 얽혀 있고, 별자리처럼 패턴을 이루며, 공전자전처럼 균형의 운동 속에 존재하며,
-              때로는 파도처럼 부딪히고 흩어지며 서로의 에너지를 교환한다. 이 네 가지 시각 키워드—
+              때로는 파도처럼 부딪히고 흩어지며 서로의 에너지를 교환한다. <br/>
+              이 네 가지 시각 키워드—
               뿌리(Root), 별자리(Constellation), 공전자전(Co-rotation), 파도(Wave)—는 관계가 만들어내는
               형태와 리듬을 은유한다.
             </p>
