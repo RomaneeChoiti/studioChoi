@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/studioChoi/static/css/main.f1fed291.css",
-    "main.js": "/studioChoi/static/js/main.4ca62afb.js",
+    "main.js": "/studioChoi/static/js/main.7c6ce21c.js",
     "static/media/pattern.mp4": "/studioChoi/static/media/pattern.f8056eac5ce44e6cbb6b.mp4",
     "static/media/1.png": "/studioChoi/static/media/1.c0abe9fecbc15c9ed8c9.png",
     "static/media/2.png": "/studioChoi/static/media/2.e0290e0345d6cc11b8c1.png",
-    "static/media/3.png": "/studioChoi/static/media/3.c26080b480e23b5fbfde.png",
-    "static/media/4.png": "/studioChoi/static/media/4.b04a6e853f2971d8755e.png",
+    "static/media/3.png": "/studioChoi/static/media/3.672dbd91ae02803213dc.png",
+    "static/media/4.png": "/studioChoi/static/media/4.5046256fa0a94f2d1928.png",
     "static/media/5.png": "/studioChoi/static/media/5.49715af5aacde80c1f2f.png",
     "static/media/choi.png": "/studioChoi/static/media/choi.0f2efa27948de4cfabf6.png",
     "static/media/6.png": "/studioChoi/static/media/6.749b991c343d8527a770.png",
@@ -33,10 +33,10 @@
     "index.html": "/studioChoi/index.html",
     "static/media/slick.woff": "/studioChoi/static/media/slick.295183786cd8a1389865.woff",
     "main.f1fed291.css.map": "/studioChoi/static/css/main.f1fed291.css.map",
-    "main.4ca62afb.js.map": "/studioChoi/static/js/main.4ca62afb.js.map"
+    "main.7c6ce21c.js.map": "/studioChoi/static/js/main.7c6ce21c.js.map"
   },
   "entrypoints": [
     "static/css/main.f1fed291.css",
-    "static/js/main.4ca62afb.js"
+    "static/js/main.7c6ce21c.js"
   ]
 }
