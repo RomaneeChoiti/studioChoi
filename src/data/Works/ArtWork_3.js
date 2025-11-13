@@ -10,7 +10,7 @@ const ArtWork = {
   title: "Relationality / Root 02",
   year: "2025",
   projectNo: "03",
-  platform: ["웹 제너러티브 아트 및 평면 변형 시리즈 (디지털 프린트)"],
+  platform: ["웹 제너러티브 아트"],
   description: "〈뿌리: 근원에서〉는 하나의 뿌리에서 방사형으로 퍼져나가는 수많은 선들이 서로를 만나 새로운 가지와 근원을 만들어내며, 시작과 끝의 경계를 넘어 관계와 생성의 순환을 시각화한 작품이다.",
   features: [],
   additionalInfo: "",
