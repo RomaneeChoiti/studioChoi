@@ -7,7 +7,7 @@ const ArtWork = {
   startDate: "2025-10-01",
   endDate: null,
   id: "ArtWork-Untitled-project-no-04",
-  title: "뿌리: 생성의 궤적 (Root: Trajectories of Generation)",
+  title: "Relationality / Root 03",
   year: "2025",
   projectNo: "04",
   platform: ["웹 제너러티브 아트 및 평면 변형 시리즈 (디지털 프린트)"],

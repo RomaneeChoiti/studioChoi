@@ -7,7 +7,7 @@ const ArtWork = {
   startDate: "2025-10-28",
   endDate: null,
   id: "ArtWork-Untitled-project-no-12",
-  title: "공전: 미정 (Constellation: Untitled)",
+  title: "Relationality / Orbit 02",
   year: "2025",
   projectNo: "12",
   platform: ["영상 기반 미디어 아트 (Video-based Media Art)"],

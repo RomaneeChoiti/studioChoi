@@ -7,7 +7,7 @@ const ArtWork = {
   startDate: "2025-09-25",
   endDate: null,
   id: "ArtWork-fromTheRoot-project-no-03",
-  title: "뿌리: 근원에서 (Root: From the Root)",
+  title: "Relationality / Root 02",
   year: "2025",
   projectNo: "03",
   platform: ["웹 제너러티브 아트 및 평면 변형 시리즈 (디지털 프린트)"],

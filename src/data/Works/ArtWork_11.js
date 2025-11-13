@@ -7,7 +7,7 @@ const ArtWork = {
   startDate: "2025-10-27",
   endDate: null,
   id: "ArtWork-Untitled-project-no-11",
-  title: "뿌리+공전: 미정 (Root+Constellation: Untitled)",
+  title: "Relationality / Root & Constellation 01",
   year: "2025",
   projectNo: "11",
   platform: ["4K 싱글채널 비디오 작품 (4K Single-Channel Video Work)"],

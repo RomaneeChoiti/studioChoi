@@ -7,7 +7,7 @@ const ArtWork = {
   startDate: "2025-10-22",
   endDate: null,
   id: "ArtWork-Untitled-project-no-08",
-  title: "파도: 미정 (wave: Untitled)",
+  title: "Relationality / Wave 01",
   year: "2025",
   projectNo: "08",
   platform: ["웹 제너러티브 아트 및 평면 변형 시리즈 (디지털 프린트)"],

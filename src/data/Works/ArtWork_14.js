@@ -7,7 +7,7 @@ const ArtWork = {
   startDate: "2025-10-30",
   endDate: null,
   id: "ArtWork-Untitled-project-no-14",
-  title: "뿌리: 미정 (Root: Untitled)",
+  title: "Relationality / Root 04",
   year: "2025",
   projectNo: "14",
   platform: ["웹 인터렉티브 아트 및 평면 변형 시리즈 (디지털 프린트)"],

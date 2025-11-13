@@ -7,7 +7,7 @@ const ArtWork = {
   startDate: "2025-10-22",
   endDate: null,
   id: "ArtWork-Untitled-project-no-09",
-  title: "뿌리+별자리: 미정 (Root+Constellation: Untitled)",
+  title: "Relationality / Root & Constellation 01",
   year: "2025",
   projectNo: "09",
   platform: ["웹 제너러티브 아트 및 평면 변형 시리즈 (디지털 프린트)"],
