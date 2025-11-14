@@ -19,18 +19,9 @@ const ArtWork = {
   images: importImages("artwork4", 8),
   video: "https://youtu.be/bdgi2E1K6Vc",
   VideoOverview: [
-"〈뿌리: 생성의 궤적〉는 관계성(Relationality) 에 대한 시각적 탐구의 한 축으로, 존재가 어떻게 서로에게 영향을 주며 확장되고 소멸하는지를 다룬다.",
-"이 작업은 한 점에서 방사형으로 뻗어나가는 곡선의 움직임으로 시작된다. 이 점은 관계의 기원이자, 모든 연결의 잠재적 중심이다. 곡선은 방향을 예측할 수 없는 형태로 나아가며, 그 궤적 안에서 새로운 갈래가 분화된다. 각 갈래는 다시 또 다른 시작점이 되어, ‘관계의 관계’, 즉 2차적·3차적 관계망을 생성한다.",
-"이 확장은 선형적이지 않다. 색의 농담이 점차 옅어지며 나타나는 흐름은 에너지의 소진과 관계의 희미해짐을 상징한다. 어떤 갈래는 새로운 가지를 내며 생명을 이어가지만, 어떤 갈래는 더 이상 뻗어나가지 못하고 흰 여백 위에 흔적만을 남긴 채 사라진다. 이 소멸의 과정은 관계가 단절되는 것이 아니라, 흔적으로 전이되는 순환적 운동으로 이해된다.",
-"〈뿌리: 생성의 궤적〉는 이처럼 생성–확장–소멸–흔적의 과정을 반복하며, 결국 수많은 갈래와 선들이 얽혀 하나의 유기적 형상을 이룬다. 이는 관계가 단일한 중심으로 수렴되지 않고, 끊임없이 변화하는 다중적 구조 속에서만 존재한다는 인식에서 출발한다.",
-"이 작업에서 뿌리는 단순한 생물학적 형태가 아니라, 존재가 서로를 매개로 드러나는 방식에 대한 시각적 은유이다. 즉, 각 선은 독립적인 개체가 아니라, 다른 선의 방향과 리듬, 밀도에 의해 구성된 상호의존적 흔적이다.",
-"〈뿌리: 생성의 궤적〉는 이러한 비결정적 관계망을 통해, '관계 속에서만 존재할 수 있는 존재'라는 개념 — 즉 관계적 존재론(relational ontology) 의 감각을 시각적으로 체험하게 한다.",
-"Root: Trajectories of Generation is a visual exploration of relationality, examining how beings influence one another while expanding and disappearing.",
-"The work begins with the movement of curves radiating outward from a single point. This point represents the origin of relationships and the potential center of all connections. The curves extend unpredictably, and along their trajectories, new branches emerge. Each branch becomes a new starting point, creating relations of relations, or secondary and tertiary networks.",
-"This expansion is non-linear. Gradually fading color gradients symbolize the dissipation of energy and the diminishing intensity of relationships. Some branches give rise to new offshoots and continue their growth, while others fail to extend further, leaving only traces on the white background before disappearing. This process of disappearance is understood not as a severance of relations, but as a cyclical movement transferred through traces.",
-"Root: Trajectories of Generation repeats this process of generation–expansion–disappearance–trace, eventually forming an intricate organic structure of interwoven branches and lines. It arises from the understanding that relationships do not converge to a single center but exist only within constantly changing, multiple structures.",
-"In this work, roots are not merely biological forms but a visual metaphor for how existence manifests through interconnections. Each line is not an independent entity but an interdependent trace shaped by the direction, rhythm, and density of other lines.",
-"Through this indeterminate network of relationships, Root: Trajectories of Generation allows viewers to visually experience the concept of 'existence only through relation,' that is, a sense of relational ontology."
+"「Relationality / Root 03」는 작은 뿌리(seed)가 자라며 분기하는 과정을 통해 관계의 생성과 확장을 시각화한 생성형 작품이다. 한 점에서 뻗어나가는 곡선은 예측할 수 없는 방향으로 움직이며, 그 흐름 속에서 새로운 갈래가 생겨나 2차·3차적 관계망을 형성한다. 전체 구조는 선형적 질서가 아닌, 끊임없이 변화하는 유기적 확장을 보여준다.",
+"색의 농담과 흐름은 에너지와 관계의 소진을 암시하며, 어떤 갈래는 성장하지만 어떤 갈래는 흔적만을 남긴 채 소멸한다. 이 소멸은 단절이 아니라 흔적으로 이어지는 전이의 과정이다. 작품은 생성–확장–소멸–잔존의 순환을 반복하며 다층적이고 유동적인 형상을 구성한다.",
+"이 작품의 뿌리는 생물학적 형태를 넘어, 존재가 서로를 매개해 드러나는 방식을 보여주는 시각적 은유이다. 각 선은 독립된 요소가 아니라 다른 선의 방향과 리듬, 밀도에 반응하며 만들어진 상호의존적 흔적이다."
 ],
   link: "/works/ArtWork-Untitled-project-no-04",
   ArtWorkLink: "https://untitled-project-no-04.vercel.app/",
