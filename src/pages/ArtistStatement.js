@@ -23,6 +23,9 @@ function ArtistStatement() {
           <section>
             <h2>Theme: 관계성 (Relationality)</h2>
             <p>
+              2025
+            </p>
+            <p>
               나의 작업은 ‘관계’에 대한 탐구에서 출발한다.
             </p>
             <p>
