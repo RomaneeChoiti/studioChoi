@@ -32,7 +32,7 @@ function DarkModeToggle() {
       aria-pressed={isDarkMode}
       aria-label={isDarkMode ? 'Disable dark mode' : 'Enable dark mode'}
     >
-      {isDarkMode ? "dark" : "light"}
+      {isDarkMode ? "🌙" : "☀️"}
     </button>
   );
 }

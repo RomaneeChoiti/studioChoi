@@ -22,27 +22,6 @@ function Navbar() {
         <li>
           <NavLink to="/contact" className={({ isActive }) => (isActive ? 'active' : '')}>contact</NavLink>
         </li>
-        {/* <li>
-          <Link to="/FrontendNotes">Frontend</Link>
-        </li>
-        <li>
-          <Link to="/BackendNotes">Backend</Link>
-        </li>
-        <li>
-          <Link to="/DevOpsNotes">DevOps</Link>
-        </li>
-        <li>
-          <Link to="/ConferenceNotes">Conference</Link>
-        </li>
-        <li>
-          <Link to="/HnSSkillNotes">Hard x Soft</Link>
-        </li>
-        <li>
-          <Link to="/ComedyNotes">Comedy Notes</Link>
-        </li>
-        <li>
-          <Link to="/blog">Blogs</Link>
-        </li> */}
         <li>
           <DarkModeToggle />
         </li>

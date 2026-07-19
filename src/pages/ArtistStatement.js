@@ -7,7 +7,6 @@ function ArtistStatement() {
       <SEO
         title="작가 노트 — STUDIO CHOI"
         description="최승원의 작가 노트 모음 — 작품의 개념, 과정, 실험적 기록을 공유합니다."
-        image={require('../assets/images/choi.png')}
         keywords={['작가노트','STUDIO CHOI','아트노트']}
         authors={['최승원']}
         techs={['media-art','web']}

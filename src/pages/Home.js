@@ -9,7 +9,6 @@ function Home() {
       <SEO
         title="STUDIO CHOI"
         description="최승원의 스튜디오 및 예술 아카이빙"
-        image={require('../assets/images/choi.png')}
         keywords={'STUDIO CHOI,portfolio,blog,frontend,art'}
         authors={['최승원']}
         techs={['React','p5.js']}

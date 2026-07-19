@@ -41,7 +41,6 @@ function Bio() {
       <SEO
         title="최승원 작가 — Bio | STUDIO CHOI"
         description="STUDIO CHOI의 작가 소개 페이지 — 최승원(Choi Seung-won)의 약력과 연락처"
-        image={require('../assets/images/choi.png')}
         keywords={['최승원','studio choi','작가','media-art','아티스트']}
         authors={['최승원']}
         techs={['p5.js','React']}
