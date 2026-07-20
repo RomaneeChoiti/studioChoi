@@ -1,0 +1,32 @@
+.artist-statement-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.artist-statement-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+body.dark-mode .artist-statement-section {
+  border-bottom-color: rgba(255, 255, 255, 0.2);
+}
+
+.artist-statement-button {
+  margin-top: 1.5rem;
+  padding: 0.6rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+  color: inherit;
+  align-self: flex-start;
+}
+
+.artist-statement-button:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
