@@ -126,7 +126,7 @@ nav ul li button {
     color: #ffffff;
   }
 
-  button {
+  button:not(.dark-mode-toggle) {
     background-color: #000000;
     border: none;
     color: white;
@@ -141,17 +141,45 @@ nav ul li button {
     transition: background-color 0.3s ease;
   }
 
-  button:hover {
-    background-color: #767676; /* 어두운 파란색 */
+  button:not(.dark-mode-toggle):hover {
+    background-color: #767676;
   }
 
-  body.dark-mode button {
-    background-color: #ffffff; /* 보라색 */
+  body.dark-mode button:not(.dark-mode-toggle) {
+    background-color: #ffffff;
     color: #000000;
   }
 
-  body.dark-mode button:hover {
-    background-color: #d2d2d2; /* 어두운 보라색 */
+  body.dark-mode button:not(.dark-mode-toggle):hover {
+    background-color: #d2d2d2; 
+  }
+
+  .dark-mode-toggle {
+    all: unset;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 64px;
+    padding: 0 8px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 1;
+    background: transparent;
+    /* color: var(--nav-text); */
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+  }
+
+  .dark-mode-toggle:hover,
+  .dark-mode-toggle:focus {
+    outline: none;
+    background: transparent;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
   }
 
   body.dark-mode .card-title {

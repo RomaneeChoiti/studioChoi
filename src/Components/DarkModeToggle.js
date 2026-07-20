@@ -1,4 +1,6 @@
 import { useState, useEffect } from "react";
+import "../css/Navbar.css";
+
 
 function DarkModeToggle() {
   const [isDarkMode, setIsDarkMode] = useState(() => {
@@ -28,6 +30,7 @@ function DarkModeToggle() {
   return (
     <button
       type="button"
+      className="dark-mode-toggle"
       onClick={toggleDarkMode}
       aria-pressed={isDarkMode}
       aria-label={isDarkMode ? 'Disable dark mode' : 'Enable dark mode'}
