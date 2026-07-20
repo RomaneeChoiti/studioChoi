@@ -1,42 +1,30 @@
 {
   "files": {
-    "main.css": "/studioChoi/static/css/main.f1fed291.css",
-    "main.js": "/studioChoi/static/js/main.6547faaf.js",
+    "main.css": "/studioChoi/static/css/main.f8ac6b8e.css",
+    "main.js": "/studioChoi/static/js/main.609e4612.js",
     "static/media/pattern.mp4": "/studioChoi/static/media/pattern.f8056eac5ce44e6cbb6b.mp4",
     "static/media/1.png": "/studioChoi/static/media/1.c0abe9fecbc15c9ed8c9.png",
     "static/media/2.png": "/studioChoi/static/media/2.e0290e0345d6cc11b8c1.png",
     "static/media/3.png": "/studioChoi/static/media/3.672dbd91ae02803213dc.png",
     "static/media/4.png": "/studioChoi/static/media/4.5046256fa0a94f2d1928.png",
-    "static/media/5.png": "/studioChoi/static/media/5.49715af5aacde80c1f2f.png",
-    "static/media/choi.png": "/studioChoi/static/media/choi.0f2efa27948de4cfabf6.png",
-    "static/media/6.png": "/studioChoi/static/media/6.749b991c343d8527a770.png",
-    "static/media/9.png": "/studioChoi/static/media/9.8bf76e11aa842516f5c4.png",
+    "static/media/5.png": "/studioChoi/static/media/5.dc106bda57c92f3edb07.png",
+    "static/media/6.png": "/studioChoi/static/media/6.4af047016f7f2134107d.png",
+    "static/media/9.png": "/studioChoi/static/media/9.a7c97395c4da5acaa022.png",
     "static/media/7.png": "/studioChoi/static/media/7.74e7c24c5ef003c13a1f.png",
     "static/media/8.png": "/studioChoi/static/media/8.18aaf61b131b29f3ed6d.png",
-    "static/media/13.png": "/studioChoi/static/media/13.34ea0a1e711cf8f8d92f.png",
-    "static/media/12.png": "/studioChoi/static/media/12.82fde32066c0b959b8bb.png",
-    "static/media/11.png": "/studioChoi/static/media/11.0d5594d1c73f6df4266b.png",
-    "static/media/10.png": "/studioChoi/static/media/10.b666fac375382d35e7a2.png",
+    "static/media/11.png": "/studioChoi/static/media/11.98c18130d733967f416f.png",
+    "static/media/10.png": "/studioChoi/static/media/10.2f7ff5afd1f4fa5bc5c8.png",
     "static/media/pattern.png": "/studioChoi/static/media/pattern.8f0ece09ae716faa3e40.png",
-    "static/media/14.png": "/studioChoi/static/media/14.11bfd4550d685523e52d.png",
-    "static/media/logo.png": "/studioChoi/static/media/logo.dbc99480e8e65d9bbcbe.png",
-    "static/media/CleanArchitecture.jpg": "/studioChoi/static/media/CleanArchitecture.26ac5f08c770e19c35a8.jpg",
-    "static/media/binfindericon.jpg": "/studioChoi/static/media/binfindericon.2ca412c5a54678f34a48.jpg",
-    "static/media/reactngit.webp": "/studioChoi/static/media/reactngit.cc4fdd24527d61641067.webp",
-    "static/media/Blogger_icon.png": "/studioChoi/static/media/Blogger_icon.97a4f32f449ad6ac2372.png",
-    "static/media/Notion-logo.png": "/studioChoi/static/media/Notion-logo.35f5f4c2ffc2f081d2cc.png",
-    "static/media/9geAn.png": "/studioChoi/static/media/9geAn.954296a7fc233a563a7d.png",
-    "static/media/git.png": "/studioChoi/static/media/git.82156e0c9c2d8763d30b.png",
     "static/media/slick.svg": "/studioChoi/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/studioChoi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/studioChoi/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/studioChoi/index.html",
     "static/media/slick.woff": "/studioChoi/static/media/slick.295183786cd8a1389865.woff",
-    "main.f1fed291.css.map": "/studioChoi/static/css/main.f1fed291.css.map",
-    "main.6547faaf.js.map": "/studioChoi/static/js/main.6547faaf.js.map"
+    "main.f8ac6b8e.css.map": "/studioChoi/static/css/main.f8ac6b8e.css.map",
+    "main.609e4612.js.map": "/studioChoi/static/js/main.609e4612.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1fed291.css",
-    "static/js/main.6547faaf.js"
+    "static/css/main.f8ac6b8e.css",
+    "static/js/main.609e4612.js"
   ]
 }
